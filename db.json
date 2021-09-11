@@ -1,7 +1,7 @@
 {
   "customers": [
     {
-      "id": 1,
+      "id": 1001,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
@@ -11,7 +11,7 @@
       "organizer": "Kat Laydee"
     },
     {
-      "id": 2,
+      "id": 1002,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -21,7 +21,7 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 3,
+      "id": 1003,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -31,7 +31,7 @@
       "organizer": "Carey Wales"
     },
     {
-      "id": 4,
+      "id": 1004,
       "category": "veganism",
       "title": "Beat Up a Meat Eater",
       "description": "Raid a KFC and smash the meat eaters.",
